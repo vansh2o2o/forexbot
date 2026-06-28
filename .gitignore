@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+Thumbs.db
+*.h5
+*.pkl
+dist/
+build/
+.idea/
+.vscode/
